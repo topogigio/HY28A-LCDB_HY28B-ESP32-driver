@@ -24,5 +24,6 @@ Compiler:
 
 Libraries:
 
-	None
+	SPI, FS, SPIFFS
+
 
