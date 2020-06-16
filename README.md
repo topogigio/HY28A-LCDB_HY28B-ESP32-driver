@@ -4,8 +4,8 @@ HY28A-LCDB Drivers
 
 Drivers for LCD HY28A-LCDB / HY28B (new version) with these hardware:
 
-    ILI9320/ili9325 for LCD
-    DS7843 (xpt2046) for Touch Panel
+    ili9320/ili9325 for LCD
+    DS7843/xpt2046 for Touch Panel
 
 Pre-requisite
 
